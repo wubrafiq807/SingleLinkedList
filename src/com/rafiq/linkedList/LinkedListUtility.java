@@ -17,7 +17,7 @@ public class LinkedListUtility {
 				temNode.setNext(newNode);
 				temNode = newNode;
 			}
-			System.out.println("Press any number to add more node or press 0 to stop to addind node");
+			System.out.println("Press any number to add more node or press 0 to stop to adding node");
 			choice = myScanner.nextInt();
 		}
 	}
