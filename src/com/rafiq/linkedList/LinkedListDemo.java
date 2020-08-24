@@ -1,7 +1,6 @@
 package com.rafiq.linkedList;
 
 public class LinkedListDemo {
-	// TODO Auto-generated method stub
 	static LinkedListUtility linkedListUtility = new LinkedListUtility();
 
 	public static void main(String[] args) {
@@ -13,10 +12,10 @@ public class LinkedListDemo {
 		System.out.println(""
 				+ "1:create\n"
 				+ "2:Display\n"
-				+ "3:insert at bigining\n"
-				+ "4:insert at End\n"
-				+ "5:insert at given position\n"
-				+ "6:Delete from bigining\n"
+				+ "3:Insert at beginning\n"
+				+ "4:Insert at End\n"
+				+ "5:Insert at given position\n"
+				+ "6:Delete from beginning\n"
 				+ "7:Delete from End\n"
 				+ "8:Delete from given position\n"
 				+ "9:Reverse\n");
